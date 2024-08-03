@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Skycast-picky/static/css/main.d2faeb44.css",
+    "main.js": "/Skycast-picky/static/js/main.5b5bb6d4.js",
+    "static/media/cold.jpg": "/Skycast-picky/static/media/cold.5d8832667d690d3fbe34.jpg",
+    "static/media/warmm.jpg": "/Skycast-picky/static/media/warmm.2c4ae2e952f9ad9f6ea9.jpg",
+    "index.html": "/Skycast-picky/index.html",
+    "main.d2faeb44.css.map": "/Skycast-picky/static/css/main.d2faeb44.css.map",
+    "main.5b5bb6d4.js.map": "/Skycast-picky/static/js/main.5b5bb6d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2faeb44.css",
+    "static/js/main.5b5bb6d4.js"
+  ]
+}
